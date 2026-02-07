@@ -11,4 +11,4 @@
   <ul>Set Random MAC: MacEditor.exe </ul>
   <ul>Set MAC for specific interface: MacEditor.exe -if="Interface1" </ul>
 </li>
-<h2>note default interface is Ethernet</h2>
+<h3>note: default interface is Ethernet !</h3>
